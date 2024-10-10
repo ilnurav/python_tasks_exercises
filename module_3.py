@@ -1,3 +1,5 @@
+# Работа с текстовыми данными
+
 # f = open('test.txt', encoding='utf-8')
 # print(f.read())
 # file = f.read()
